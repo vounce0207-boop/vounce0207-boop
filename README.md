@@ -1,3 +1,7 @@
+<img src="./assets/profile-header.png" alt="Monochrome generative identity artwork" width="100%" />
+
+<br/>
+
 <h1 align="left">Designing images, films & interactive ideas with AI.</h1>
 
 <p align="left">
